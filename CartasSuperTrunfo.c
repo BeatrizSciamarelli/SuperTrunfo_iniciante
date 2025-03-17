@@ -22,7 +22,7 @@ int main() {
     int ponto_turistico2;
 
     //inicialização do jogo
-//teste
+
     printf("____Super Trunfo de Paises____\n");
 
     printf("\n____VAMOS COMEÇAR!!____\n");
